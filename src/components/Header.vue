@@ -8,7 +8,7 @@
     >
       <a
         href="/"
-        class="flex items-start w-auto text-4xl font-extrabold select-none text-pdGreen"
+        class="flex items-start w-auto text-4xl font-extrabold select-none text-pWhite"
         >DITZ</a
       >
 
